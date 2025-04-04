@@ -13,7 +13,6 @@ def port_scan(target, ports):
         
         sock.close()
 
-# Exemplo de uso
 target_ip = "10.0.0.1"  # Altere para o IP desejado
 ports_to_scan = range(1, 1025)  # Varre portas de 1 a 1024
 
