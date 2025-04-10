@@ -5,7 +5,7 @@
 Guia rápido e simples para verificar se um **host (IP)** ou um **site** está ativo no terminal do Linux (Kali, Ubuntu, etc).
 
 ## fazer verificação de portas abertas IP
- exemplo [80], [8080], [433],[21] ect..
+ exemplo [80], [8080], [433],[21] etc..
 
 ## verificação de host ativo 
  exemplo Host ativo	ping 192.168.0.10	64 bytes from 
