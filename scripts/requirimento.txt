@@ -1,0 +1,9 @@
+como executar o script 
+
+./scan.sh
+
+
+
+How to execute the script
+
+./scan.sh
