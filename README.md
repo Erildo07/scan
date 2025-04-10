@@ -11,11 +11,13 @@ Guia rápido e simples para verificar se um **host (IP)** ou um **site** está a
  exemplo Host ativo	ping 192.168.0.10	64 bytes from 
 
 ## verificação de site 
- exemplo goglo.com
+ exemplo globo.com
 
  ## Como Usar
 
 ```bash
+
+
 # 1. Clonar o repositório
 git clone https://github.com/Erildo07/scan.git
 
