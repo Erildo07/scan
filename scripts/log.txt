@@ -1,6 +1,6 @@
 PING facebook.com (2a03:2880:f105:283:face:b00c:0:25de) 56 data bytes
-64 bytes from edge-star-mini6-shv-02-gru2.facebook.com (2a03:2880:f105:283:face:b00c:0:25de): icmp_seq=1 ttl=55 time=16.1 ms
+64 bytes from edge-star-mini6-shv-02-gru2.facebook.com (2a03:2880:f105:283:face:b00c:0:25de): icmp_seq=1 ttl=55 time=16.4 ms
 
 --- facebook.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 16.146/16.146/16.146/0.000 ms
+rtt min/avg/max/mdev = 16.358/16.358/16.358/0.000 ms

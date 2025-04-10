@@ -10,3 +10,7 @@ ping -c 1 $site > log.txt
 ip=`cat log.txt | grep "icmp_seq" | cut -d"(" -f2 |cut -d")" -f1`
 
 echo "O indereço do IP do site é :"$ip
+
+# Saber se o host está on
+host=`cat log.txt | grep "received" | cut -d"," -f2`
+echo "Resposta: " $host
